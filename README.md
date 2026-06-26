@@ -1,1 +1,4 @@
 # Proyecto-Final-Python-Pro
+
+Este proyecto está dedicado a hacer un hub hispano acerca de la NASCAR, principalmente basado en la división mayor de la categoría (NASCAR Cup Series), y también enfocado menormente en las series inferiores (NOAPS y NCTS) con el objetivo de que el deporte alcance mediáticamente la región de hispanoamérica, región a la cual no se le da tanto enfoque al la serie estar dedicada para el público estadounidense, acá se podrán ver, posiciones, noticias, estadísticas y telemetría de acceso libre usando APIs dedicadas y las técnicas de desarollo web aprendidas en el curso de Python Pro.
+En un futuro planeo añadir también, salas de conversación en Discord para fanáticos hispanos del motorsport en general, incluyendo diversas categorias (F1, F2, NASCAR, INDYCAR, IMSA, WEC, DTM, RWC, DAKAR, entre otros)
